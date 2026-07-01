@@ -31,13 +31,13 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shodan1q&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodan1q&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shodan1q&theme=github_dark" alt="github stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=shodan1q&hide_border=true&theme=tokyonight" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shodan1q&hide_border=true&theme=tokyonight" alt="streak stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shodan1q&theme=github_dark" alt="repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shodan1q&theme=github_dark" alt="most commit language" />
 </p>
 
 ---
