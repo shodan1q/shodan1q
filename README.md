@@ -24,24 +24,6 @@
 
 ---
 
-### 📊 GitHub Overview
-
-<p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shodan1q&theme=github_dark" alt="profile summary" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shodan1q&theme=github_dark" alt="github stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=shodan1q&hide_border=true&theme=tokyonight" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shodan1q&theme=github_dark" alt="repos per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shodan1q&theme=github_dark" alt="most commit language" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
